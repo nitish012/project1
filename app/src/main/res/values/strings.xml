@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">project2</string>
+    <string name="content"> <font color="#808080"> -    </font> <font color="#000">   \u0020  \u0020  01 \u0020 \u0020   </font><font color="#808080">  + </font>
+    </string>
+    <string name="content1"> <font color="#808080"> -     </font> <font color="#000">   \u0020 \u0020   02 \u0020 \u0020   </font><font color="#808080">   + </font>
+    </string>
+    <string name="content2"> <font color="#808080"> -     </font> <font color="#000">  \u0020 \u0020   04 \u0020   \u0020  </font><font color="#808080">   + </font>
+    </string>
+</resources>
